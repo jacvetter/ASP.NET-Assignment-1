@@ -38,7 +38,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T00:36:08.202Z"
+              "WhenOpened": "2025-04-14T00:36:08.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,7 +49,7 @@
               "RelativeDocumentMoniker": "Endpoints\\ProductEndpoint.cs",
               "ToolTip": "E:\\T0510 ASP.NET\\Assignment 1\\Assignment 1\\Endpoints\\ProductEndpoint.cs",
               "RelativeToolTip": "Endpoints\\ProductEndpoint.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T00:37:17.159Z",
               "EditorCaption": ""
@@ -63,7 +64,8 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T00:36:53.587Z"
+              "WhenOpened": "2025-04-14T00:36:53.587Z",
+              "EditorCaption": ""
             }
           ]
         }
